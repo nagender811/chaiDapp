@@ -92,11 +92,11 @@
 	},
 	"sources": {
 		"contracts/chai.sol": {
-			"keccak256": "0x4231dd786923494816779ab92b040e63fd79bfebfaed15e436046a1a9b76c817",
+			"keccak256": "0x07ffe7a5b569eab845dd913cf8d73bfd241abbb473b95c934dcf8d8d92272371",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://7ad94a40ea8af8af9a3a5fd4b547cb71bebb30c418e4905973243dc1e679a64c",
-				"dweb:/ipfs/QmVwCF5VqBVquvDkACST881NE9kadnoUq44fTestC2yUeC"
+				"bzz-raw://0df663197d6bc0b6bafff6da67d749865456235b12f6c90b9b85773a9b3af7fe",
+				"dweb:/ipfs/QmaZaymN8JuNbK89TPAvY6qFSErrvE596riVybcGR3LutX"
 			]
 		}
 	},

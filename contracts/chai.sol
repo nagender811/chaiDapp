@@ -19,7 +19,7 @@ contract chai {
     function buyChai(string memory name, string memory message) public payable {
         require(msg.value > 0, "Please pay greater than 0 ether");
         owner.transfer(msg.value);
-        memos.push();
+        memos.push(Memo(name, message, block.timestamp, msg.sender));
     }
 
     function getMemos() public view returns (Memo[] memory) {
